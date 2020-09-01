@@ -13,7 +13,7 @@ Tive também oportunidades de atuar com JAVA, Python e até mesmo C++ com QT fra
 
 <details open>
 <summary> 📫 <b>Para entrar em contato comigo</b></summary>  
-  
+  <br>
   <p align = "left">    
     <a href="https://wa.me/5541988654956" target="_blank">
       <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white"/>
@@ -21,19 +21,17 @@ Tive também oportunidades de atuar com JAVA, Python e até mesmo C++ com QT fra
     <a href="mailto:juliozuppa@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>    
-  </p>    
-  
+  </p>  
 </details>
 
 <details open>
 <summary> 👍 <b>Para nos conectar</b></summary>
-  
+  <br>
   <p align = "left">    
     <a href="https://www.linkedin.com/in/juliozuppa/" target="_blank">
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>    
   </p>
-  
 </details>
 
 <!--
