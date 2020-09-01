@@ -1,7 +1,7 @@
 ### Júlio César Zuppa Araújo
-<a href="https://www.linkedin.com/in/juliozuppa/" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+#### Analista Desenvolvedor de Sistemas. Curitiba/PR - Brasil
+
+
 
 #### Contatos
 <a href="https://wa.me/5541988654956" target="_blank">
@@ -10,6 +10,15 @@
 <a href="mailto:juliozuppa@gmail.com">
   <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+#### Redes Sociais
+<a href="https://www.linkedin.com/in/juliozuppa/" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+
+
+
 
 <!--
 **juliozuppa/juliozuppa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
