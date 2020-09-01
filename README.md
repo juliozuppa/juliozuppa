@@ -1,5 +1,5 @@
 ## Olá 👋 sou o Júlio!
-##### De Curitiba/PR, Brasil
+##### De Curitiba/PR <img class="emoji" title="Brasil" alt="Brasil" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1f7.png?v8" height="20" width="20" align="absmiddle">
 
 <p>
 Desenvolvedor de sistemas há aproximadamente 11 anos, com maior tempo de experências utilizando linguagem PHP, conhecimento fullstack com maior força no banckend.
