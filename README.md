@@ -9,7 +9,8 @@ Tive também oportunidades de atuar com JAVA, Python e até mesmo C++ com QT fra
 
 - 🤝 em busca de novas oportunidades e desafios
 - 👨🏽‍💻 em constante aprendizado, atualmente estudando GoLang
-- 👯 contribui em um projeto open source com a tradução da biblioteca JS [HandsOnTable](https://github.com/handsontable/handsontable)
+- 👯 contribui em um projeto open source com a tradução PT-BR da biblioteca JS [HandsOnTable](https://github.com/handsontable/handsontable)
+- 🎸 curto música, sei tocar violão e um pouco de guitarra
 
 <details open>
 <summary> 📫 <b>Para entrar em contato comigo</b></summary>  
@@ -39,6 +40,20 @@ Tive também oportunidades de atuar com JAVA, Python e até mesmo C++ com QT fra
     </a>
   </p>
 </details>
+
+📊 **Conhecimentos** 
+
+```text
+💻 SO: 
+Linux     █████████░
+Windows   ████████░░
+```
+
+```text
+💻 Linguagens: 
+<img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>     ██████████
+```
+
 
 <!--
 Here are some ideas to get you started:
