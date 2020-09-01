@@ -1,15 +1,24 @@
 ## Olá 👋 sou o Júlio!
-##### De Curitiba/PR <img class="emoji" title="Brasil" alt="Brasil" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1f7.png?v8" height="20" width="20" align="absmiddle">
+##### De Curitiba/PR <img class="emoji" title="Brasil" alt="Brasil" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1f7.png?v8" height="25" width="25" align="absmiddle">
 
 <p>
 Desenvolvedor de sistemas há aproximadamente 11 anos, com maior tempo de experências utilizando linguagem PHP, conhecimento fullstack com maior força no banckend.
 <br>
-Tive também oportunidades de atuar com JAVA, Python e até mesmo C++ com QT framework!
+Tive também oportunidades de atuar com JAVA, Python e até mesmo C++ com QT framework
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 - 🤝 em busca de novas oportunidades e desafios
 - 👨🏽‍💻 em constante aprendizado, atualmente estudando GoLang
-- 👯 contribui em um projeto open source com a tradução PT-BR da biblioteca JS [HandsOnTable](https://github.com/handsontable/handsontable)
+- 👊 contribui em um projeto open source com a tradução PT-BR da biblioteca JS [HandsOnTable](https://github.com/handsontable/handsontable)
 - 🎸 curto música, sei tocar violão e um pouco de guitarra
 
 <details open>
@@ -41,18 +50,6 @@ Tive também oportunidades de atuar com JAVA, Python e até mesmo C++ com QT fra
   </p>
 </details>
 
-📊 **Conhecimentos** 
-
-```text
-💻 SO: 
-Linux     █████████░
-Windows   ████████░░
-```
-
-```text
-:octocat: Linguagens: 
-PHP       ██████████
-```
 
 
 <!--
