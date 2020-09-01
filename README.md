@@ -1,7 +1,5 @@
 ### Júlio César Zuppa Araújo
-<a href="https://www.linkedin.com/in/juliozuppa/" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/juliozuppa/){:target="_blank"}
 
 #### Contatos
 <a href="https://wa.me/5541988654956" target="_blank">
