@@ -1,7 +1,10 @@
 ### Júlio César Zuppa Araújo
 
-<a href="https://wa.me/5541988654956">
+<a href="https://wa.me/5541988654956" target="_blank">
   <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/juliozuppa/" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <!--
 **juliozuppa/juliozuppa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
