@@ -9,7 +9,8 @@ Tive também oportunidades de atuar com JAVA, Python e até mesmo C++ com QT fra
 
 - 🤝 em busca de novas oportunidades e desafios
 - 👨🏽‍💻 em constante aprendizado, atualmente estudando GoLang
-- 👯 Já colaborei com a tradução da biblioteca JS [HandsOnTable](https://github.com/handsontable/handsontable){:target="_blank"}
+- 👯 contribui em um projeto open source com a tradução da biblioteca JS [HandsOnTable](https://github.com/handsontable/handsontable)
+- 
 
 <details open>
 <summary> 📫 <b>Para entrar em contato comigo</b></summary>  
@@ -32,6 +33,7 @@ Tive também oportunidades de atuar com JAVA, Python e até mesmo C++ com QT fra
   </p>
 </details>
 
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
