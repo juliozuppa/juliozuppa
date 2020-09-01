@@ -16,11 +16,6 @@ Analista Desenvolvedor de Sistemas. Curitiba/PR - Brasil
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<script>
-jQuery('.target-blank').attr('target', '_blank').removeClass('target-blank').filter('[title=""]').removeAttr('title').filter('[class=""]').removeAttr('class');
-jQuery('.rel-nofollow').attr('rel', 'nofollow').removeClass('rel-nofollow').filter('[title=""]').removeAttr('title').filter('[class=""]').removeAttr('class');
-</script>
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
