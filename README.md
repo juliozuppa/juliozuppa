@@ -10,6 +10,8 @@ Desenvolvedor de sistemas há aproximadamente 11 anos, com maior tempo de exper�
 - 🤜🤛 contribuí com a tradução PT-BR da biblioteca JS [HandsOnTable](https://github.com/handsontable/handsontable)
 - 🎸 curto música, sei tocar violão e um pouco de guitarra
 
+:book: Meu Currículo
+
 <details open>
 <summary> 📫 <b>Para entrar em contato comigo</b></summary>  
   <br>
