@@ -7,8 +7,7 @@ Desenvolvedor de sistemas há aproximadamente 11 anos, com maior tempo de exper�
 
 :book: <a href="https://docs.google.com/document/d/1T3ZJte2zU5E6sVohW6o2tCHAsnm79k1hXj2NV9hRzJ8/edit?usp=sharing">Meu Currículo</a>
 
-- 🤝 em busca de novas oportunidades e desafios
-- 👨🏽‍💻 em constante aprendizado, atualmente estudando GoLang
+- 👨🏽‍💻 em constante aprendizado
 - 🤜🤛 contribuí com a tradução PT-BR da biblioteca JS [HandsOnTable](https://github.com/handsontable/handsontable)
 - 🎸 curto música, sei tocar violão e um pouco de guitarra
 
