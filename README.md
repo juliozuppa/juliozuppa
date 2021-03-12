@@ -2,7 +2,7 @@
 ##### De Curitiba/PR <img class="emoji" title="Brasil" alt="Brasil" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1f7.png?v8" height="25" width="25" align="absmiddle">
 
 <p>
-Desenvolvedor de sistemas há aproximadamente 11 anos, com maior tempo de experências utilizando linguagem PHP, conhecimento fullstack com maior força no backend
+Desenvolvedor de sistemas há aproximadamente 12 anos, com maior tempo de experências utilizando linguagem PHP, conhecimento fullstack com maior força no backend
 </p>
 
 :book: <a href="https://docs.google.com/document/d/1T3ZJte2zU5E6sVohW6o2tCHAsnm79k1hXj2NV9hRzJ8/edit?usp=sharing">Meu Currículo</a>
