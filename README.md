@@ -31,12 +31,6 @@ Desenvolvedor de sistemas desde 2007, com maior tempo de experências utilizando
     <a href="https://www.linkedin.com/in/juliozuppa/" target="_blank">
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>   
-    <a href="https://www.facebook.com/julio.zuppa/" target="_blank">
-      <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/>
-    </a>   
-    <a href="https://www.instagram.com/juliozuppa/" target="_blank">
-      <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
-    </a>
   </p>
 </details>
 
