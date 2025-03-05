@@ -9,7 +9,7 @@ Estudando GoLang na Pós-graduação Go Expert da FCTech.
 - 🤜🤛 contribuição com a tradução PT-BR da biblioteca JS [HandsOnTable](https://github.com/handsontable/handsontable)
 
 <details open>
-<summary> 👍 <b>Contato</b></summary>
+<summary> 📫 <b>Contato</b></summary>
   <br>
   <p align = "left">    
     <a href="https://www.linkedin.com/in/juliozuppa/" target="_blank">
