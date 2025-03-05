@@ -1,6 +1,5 @@
-## Olá Mundo!
-### Meu nome é Júlio C. Zuppa
-##### De Curitiba/PR <img class="emoji" title="Brasil" alt="Brasil" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1f7.png?v8" height="25" width="25" align="absmiddle">
+### Júlio C. Zuppa
+##### Curitiba/PR <img class="emoji" title="Brasil" alt="Brasil" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1f7.png?v8" height="25" width="25" align="absmiddle">
 
 <p>
 Desenvolvedor de sistemas desde 2007, atualmente atuando com desenvolvimento JAVA e no backend utilizando springboot framework.
