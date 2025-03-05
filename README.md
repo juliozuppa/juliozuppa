@@ -7,6 +7,7 @@ Estudando GoLang na Pós-graduação Go Expert da FCTech.
 </p>
 
 - 🤜🤛 contribuição com a tradução PT-BR da biblioteca JS [HandsOnTable](https://github.com/handsontable/handsontable)
+<hr>
 
 <details open>
 <summary> 📫 <b>Contato</b></summary>
